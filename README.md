@@ -8,7 +8,7 @@
 
 
 ## **Link to figma file**
-https://www.figma.com/proto/AsMS8qmOG9tUddvpJvBKmd/Untitled?node-id=1-3&p=f&t=FmMHvuIt6aLOZHSn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
+https://www.figma.com/proto/AsMS8qmOG9tUddvpJvBKmd/EcoBottle?node-id=1-2&t=GfCDViuj8wY1fvcX-1
 
 ## **Hosted url**
 https://anaya05wilson.github.io/Sustainable-Future/
