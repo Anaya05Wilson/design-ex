@@ -17,7 +17,7 @@ https://anaya05wilson.github.io/Sustainable-Future/
 Just navigate
 
 ## **Steps to run**  
-It's just a simple html, css site. You can just navigate through it.
+You can just navigate through it.
 
 ## **Acknowledgements**
 Give credit to any resources, tutorials, libraries helped you build your project.
