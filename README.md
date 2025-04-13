@@ -1,23 +1,23 @@
 ![Untitled-3](design.png)
-# **[Project Name]**
+# **[EcoBottle]**
 
 
 **DESIGN.EXE designathon 2025**
 
-> A short description of your project. Explain what your project does, what problem it solves, and why it's cool.
+> A single page website for launching of new product EcoBottle of Sustainable Future Company
 
 
 ## **Link to figma file**
 Add the link here
 
 ## **Hosted url**
-Add the link here
+https://anaya05wilson.github.io/Sustainable-Future/
 
 ## **Installation**
-How on earth can we set up your project up and running?
+Just navigate
 
 ## **Steps to run**  
-Care to explain?
+It's just a simple html, css site. You can just navigate through it.
 
 ## **Acknowledgements**
 Give credit to any resources, tutorials, libraries helped you build your project.
